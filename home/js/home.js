@@ -1,0 +1,1 @@
+$('span').html(localStorage.nameUser);
